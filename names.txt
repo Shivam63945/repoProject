@@ -1,6 +1,0 @@
-Hello i am currently writing this from git bash vim
-
-writing names 
-1-Shivam
-2-Rahul 
-
